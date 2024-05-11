@@ -2,6 +2,8 @@
 
 ### IMMERSION DAYS
 
+# CATEOGRY ::: STORAGE 
+
 ### AWS Storage Immersion Day
 
 https://catalog.us-east-1.prod.workshops.aws/workshops/74237958-77c8-4e7f-a02f-ae201a04d759/en-US
@@ -23,4 +25,11 @@ https://catalog.workshops.aws/well-architected-reliability/en-US
 ### Chaos Engineering
 
 https://catalog.us-east-1.prod.workshops.aws/workshops/7379e94f-6981-4dd8-bb46-8ec4aff3a825/en-US
+
+# CATEOGRY ::: NETWORKING 
+
+
+
+# CATEOGRY ::: DATABASES
+
 
