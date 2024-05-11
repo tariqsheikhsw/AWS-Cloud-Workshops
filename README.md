@@ -6,6 +6,8 @@
 
 https://catalog.us-east-1.prod.workshops.aws/workshops/74237958-77c8-4e7f-a02f-ae201a04d759/en-US
 
+# CATEOGRY ::: DISASTER RECOVERY / HIGH AVAILABILITY 
+
 ### Introduction to AWS Elastic Disaster Recovery
 
 https://catalog.us-east-1.prod.workshops.aws/workshops/ecb3502f-b9f1-420b-989b-df16e9cab834/en-US
