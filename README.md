@@ -12,7 +12,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/74237958-77c8-4e7f-a02f-a
 
 ### AWS Disaster Recovery Immersion Day 
 
-Lab: Backup and Restore 
+Lab: Backup and Restore   
 https://catalog.us-east-1.prod.workshops.aws/workshops/6b7a41c6-3cae-45f2-bf2c-72c64b55d920/en-US/1-backup-and-restore
 
 Lab: Hot Standby  
