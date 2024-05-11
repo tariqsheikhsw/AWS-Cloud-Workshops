@@ -17,3 +17,8 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/44e29d0c-6c38-4ef3-8ff3-6
 ### AWS Well-Architected Reliability Workshop
 
 https://catalog.workshops.aws/well-architected-reliability/en-US
+
+### Chaos Engineering
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/7379e94f-6981-4dd8-bb46-8ec4aff3a825/en-US
+
